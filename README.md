@@ -159,3 +159,9 @@ AI assistance was used during project development and documentation. The project
 Project status
 
 HealthGap Rwanda is a prototype for preliminary geospatial screening and further investigation. It is not a diagnostic tool and does not establish that healthcare needs are unmet.
+
+Demo Video
+
+Watch the HealthGap Rwanda demonstration:
+
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1mPCl8TM4CvD-SSEwDSVFWpd5F7O2VwAD/view?usp=sharing)
